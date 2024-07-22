@@ -10,7 +10,7 @@
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
-config-version: 5
+config-version: 8
 settings:
   save-user-cache-on-stop-only: false
   sample-count: 12
